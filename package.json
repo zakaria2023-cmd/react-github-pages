@@ -2,7 +2,7 @@
   "name": "react-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zakaria2023-cmd.github.io/react-github-pages.git",
+  "homepage": "https://zakaria2023-cmd.github.io/react-github-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
